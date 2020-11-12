@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ryan Han</title>
+    <link>https://rhan9.github.io/rh_portfolio_2/post/</link>
+    <description>Recent content in Projects on Ryan Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Nov 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://rhan9.github.io/rh_portfolio_2/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Rise of a Superstar</title>
+      <link>https://rhan9.github.io/rh_portfolio_2/post/project1/</link>
+      <pubDate>Mon, 09 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://rhan9.github.io/rh_portfolio_2/post/project1/</guid>
+      <description>Utilized Python and a National Basketball Association(NBA) API Client package called &amp;ldquo;nba_api&amp;rdquo; to visualize a player&amp;rsquo;s regular season shot chart. Created a python script to clean and extract the necessary shot location data from the API output. Used matplotlib to plot out all of our player&amp;rsquo;s regular season shots since he entered the NBA. More detailed overview can be found here    Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
