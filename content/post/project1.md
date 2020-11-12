@@ -17,6 +17,7 @@ current NBA player.
 
 * More detailed overview can be found [here](https://spatial-data-discovery.github.io/project-rhan9.html)
 
+* !!!
 {{< figure src="/images/ga_19.png">}}
 
 
